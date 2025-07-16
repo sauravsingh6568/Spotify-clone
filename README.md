@@ -5,7 +5,7 @@ It mimics the look and feel of the Spotify Web Player frontend using modern web 
 
 ## 🔗 Live Demo
 
-> [Add your deployed link here — Vercel/Netlify etc.]
+> https://spotifyclone-react.netlify.app/
 
 ---
 
@@ -16,12 +16,6 @@ It mimics the look and feel of the Spotify Web Player frontend using modern web 
 - 🎧 Font Awesome (for icons)
 - 📁 CSS Modules (optional)
 - 🔥 Fully responsive layout
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your UI here (Sidebar, Main Content, Music Player)
 
 ---
 
